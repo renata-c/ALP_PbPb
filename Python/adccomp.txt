@@ -1,0 +1,200 @@
+ FCN=1214.25 FROM MIGRAD    STATUS=CONVERGED      92 CALLS          93 TOTAL
+                     EDM=1.49705e-10    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.17895e+05   3.74117e+03   5.34930e+01   2.96950e-09
+   2  Mean         2.95950e+03   1.63666e+00   2.65294e-02   4.32946e-06
+   3  Sigma        1.31984e+02   2.00264e+00   6.75066e-05   3.23803e-03
+
+****************************************
+Minimizer is Linear / Migrad
+Chi2                      =      3999.02
+NDf                       =           42
+p0                        =     -5335.84   +/-   245.896     
+p1                        =      5.67198   +/-   0.243675    
+p2                        =  -0.00185528   +/-   7.84465e-05 
+p3                        =   1.9282e-07   +/-   8.24825e-09 
+ FCN=42.8366 FROM MIGRAD    STATUS=CONVERGED     343 CALLS         344 TOTAL
+                     EDM=7.66738e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY   2.1 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.42728e+05   4.11282e+03  -9.54359e+00   9.06102e-08
+   2  p1           2.97065e+03   1.58309e+00  -1.11084e-04  -1.05118e-04
+   3  p2           9.32746e+01   1.53685e+00  -8.09234e-03  -2.03423e-04
+   4  p3          -1.12145e+03   2.68498e+02  -5.77274e-01  -1.64832e-04
+   5  p4           1.54361e+00   2.65650e-01   5.67308e-04  -5.25012e-01
+   6  p5          -5.61523e-04   8.51711e-05  -1.77874e-07  -1.70066e+03
+   7  p6           6.15025e-08   8.90875e-09   1.80341e-11  -5.57848e+06
+Info in <TCanvas::Print>: gif file ADC0.gif has been created
+
+
+The integral of the Gaussian for the ADC 0 Fit is = 5516.555053674325
+
+
+ FCN=360.427 FROM MIGRAD    STATUS=CONVERGED      91 CALLS          92 TOTAL
+                     EDM=3.21154e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.20208e+05   3.76373e+03   2.92807e+01  -3.25134e-09
+   2  Mean         2.86141e+03   1.61365e+00   1.45632e-02   1.96323e-05
+   3  Sigma        1.31345e+02   1.70014e+00   3.75180e-05   1.94262e-02
+
+****************************************
+Minimizer is Linear / Migrad
+Chi2                      =      3813.71
+NDf                       =           40
+p0                        =     -6593.34   +/-   264.919     
+p1                        =       7.0622   +/-   0.265259    
+p2                        =   -0.0023519   +/-   8.63294e-05 
+p3                        =  2.50031e-07   +/-   9.18133e-09 
+ FCN=28.673 FROM MIGRAD    STATUS=CONVERGED     394 CALLS         395 TOTAL
+                     EDM=5.65078e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY   2.4 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.42916e+05   4.25466e+03  -1.67024e+01   3.92140e-07
+   2  p1           2.87227e+03   1.68948e+00  -2.47557e-03   6.34774e-06
+   3  p2           9.71691e+01   1.60338e+00  -1.03375e-02  -2.06862e-05
+   4  p3          -1.14535e+03   3.00384e+02  -1.48650e+00  -1.41564e-04
+   5  p4           1.60993e+00   3.00804e-01   1.51188e-03  -7.35299e-01
+   6  p5          -6.01215e-04   9.76037e-05  -4.92327e-07  -3.27568e+03
+   7  p6           6.76791e-08   1.03323e-08   5.19205e-11  -1.35803e+07
+Info in <TCanvas::Print>: gif file ADC5.gif has been created
+
+
+The integral of the Gaussian for ADC 5 Fit is = 5520.825281810726
+
+
+ FCN=745.213 FROM MIGRAD    STATUS=CONVERGED      82 CALLS          83 TOTAL
+                     EDM=9.94147e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.36668e+05   3.85493e+03   4.27933e+01  -2.06267e-08
+   2  Mean         2.78216e+03   2.15112e+00   2.56791e-02  -1.88094e-05
+   3  Sigma        1.66209e+02   2.28088e+00   5.04294e-05  -2.99331e-02
+
+****************************************
+Minimizer is Linear / Migrad
+Chi2                      =      3313.39
+NDf                       =           37
+p0                        =     -9752.57   +/-   341.059     
+p1                        =      10.4613   +/-   0.350681    
+p2                        =  -0.00353626   +/-   0.000117466 
+p3                        =  3.84212e-07   +/-   1.28789e-08 
+ FCN=43.3621 FROM HESSE     STATUS=NOT POSDEF     50 CALLS         479 TOTAL
+                     EDM=8.47964e-08    STRATEGY= 1      ERR MATRIX NOT POS-DEF
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.41891e+05   4.04134e+03   2.01487e+00   1.15761e-08
+   2  p1           2.80699e+03   2.01074e+00   1.29097e-03  -1.09567e-06
+   3  p2           1.14744e+02   1.76143e+00   1.04312e-03  -1.53376e-04
+   4  p3          -1.34405e+03   7.87590e+00   6.15780e-04   1.83492e-04
+   5  p4           1.86644e+00   3.60352e-03   4.44994e-07   5.62555e-01
+   6  p5          -7.07527e-04   9.80247e-07   1.68688e-10   1.83371e+03
+   7  p6           8.15505e-08   2.17790e-10   1.94432e-14   6.24379e+06
+Info in <TCanvas::Print>: gif file ADC10.gif has been created
+
+
+The integral of the Gaussian for ADC 10 Fit is = 5497.528750947471
+
+
+ FCN=345.937 FROM MIGRAD    STATUS=CONVERGED      89 CALLS          90 TOTAL
+                     EDM=7.6854e-10    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.45782e+05   3.93364e+03   2.95262e+01   6.86439e-09
+   2  Mean         2.73192e+03   2.26776e+00   1.91378e-02   2.63719e-06
+   3  Sigma        1.78601e+02   2.18914e+00   3.40745e-05  -6.92076e-03
+
+****************************************
+Minimizer is Linear / Migrad
+Chi2                      =      2882.27
+NDf                       =           35
+p0                        =     -12307.5   +/-   398.672     
+p1                        =      13.2429   +/-   0.415686    
+p2                        =  -0.00451745   +/-   0.000141325 
+p3                        =   4.9687e-07   +/-   1.57358e-08 
+ FCN=27.3478 FROM MIGRAD    STATUS=CONVERGED     401 CALLS         402 TOTAL
+                     EDM=1.68992e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY   3.8 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.45075e+05   5.76303e+03   1.32439e+01   5.62660e-08
+   2  p1           2.75881e+03   2.45012e+00   4.49134e-03   1.90591e-04
+   3  p2           1.29679e+02   2.48914e+00   4.85416e-03  -1.46249e-04
+   4  p3          -7.71517e+02   5.31337e+02   1.08342e+00   7.97581e-05
+   5  p4           1.28892e+00   5.52934e-01  -1.08385e-03   3.39839e-01
+   6  p5          -5.21163e-04   1.86625e-04   3.49491e-07   1.27241e+03
+   7  p6           6.20343e-08   2.05706e-08  -3.66703e-11   4.46317e+06
+Info in <TCanvas::Print>: gif file ADC15.gif has been created
+
+
+The integral of the Gaussian for ADC 15 Fit is = 5569.88298329543
+
+
+ FCN=668.906 FROM MIGRAD    STATUS=CONVERGED      91 CALLS          92 TOTAL
+                     EDM=1.5793e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.82357e+05   4.14127e+03   4.24498e+01   1.17139e-08
+   2  Mean         2.59066e+03   3.38435e+00   3.57786e-02  -1.56051e-06
+   3  Sigma        2.52638e+02   3.09695e+00   4.21361e-05   5.22390e-03
+
+****************************************
+Minimizer is Linear / Migrad
+Chi2                      =      2039.81
+NDf                       =           35
+p0                        =     -13799.3   +/-   367.886     
+p1                        =       15.304   +/-   0.396966    
+p2                        =  -0.00537733   +/-   0.000139314 
+p3                        =   6.0893e-07   +/-   1.59856e-08 
+ FCN=59.2699 FROM MIGRAD    STATUS=CONVERGED     453 CALLS         454 TOTAL
+                     EDM=6.05902e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY   1.3 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.46254e+05   8.48846e+03   6.06639e+00   7.10590e-09
+   2  p1           2.65652e+03   3.63134e+00  -1.15589e-03   8.50771e-07
+   3  p2           1.66499e+02   4.02682e+00   3.09154e-03  -3.21335e-06
+   4  p3          -1.05726e+03   6.23060e+02   5.79299e-01   2.69106e-05
+   5  p4           1.61818e+00   6.71485e-01  -6.06749e-04   1.11574e-01
+   6  p5          -6.52251e-04   2.33198e-04   2.05145e-07   4.10285e+02
+   7  p6           7.90973e-08   2.63482e-08  -2.26151e-11   1.42871e+06
+Info in <TCanvas::Print>: gif file ADC30.gif has been created
+
+
+The integral of the Gaussian for ADC 30 Fit is = 5596.680148727969
+
+
+ FCN=571.742 FROM MIGRAD    STATUS=CONVERGED      94 CALLS          95 TOTAL
+                     EDM=1.11802e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     4.04326e+05   4.31425e+03   4.01091e+01   1.19240e-08
+   2  Mean         2.45762e+03   4.30560e+00   4.04550e-02  -1.09152e-04
+   3  Sigma        3.08525e+02   3.53982e+00   3.60767e-05  -2.60270e-03
+
+****************************************
+Minimizer is Linear / Migrad
+Chi2                      =       1549.2
+NDf                       =           37
+p0                        =     -9544.32   +/-   256.89      
+p1                        =      11.2209   +/-   0.289555    
+p2                        =  -0.00410606   +/-   0.000105442 
+p3                        =  4.79832e-07   +/-   1.24976e-08 
+ FCN=71.5655 FROM HESSE     STATUS=NOT POSDEF     50 CALLS         664 TOTAL
+                     EDM=1.25854e-08    STRATEGY= 1      ERR MATRIX NOT POS-DEF
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.48429e+05   5.20830e+03   2.68725e+00  -1.24135e-09
+   2  p1           2.55953e+03   4.08421e+00   3.12526e-03   3.69525e-05
+   3  p2           2.07276e+02   3.69970e+00   2.38747e-03  -2.31040e-06
+   4  p3          -2.24160e+02   6.97413e+00   6.33980e-04  -6.75715e-05
+   5  p4           7.46253e-01   3.02776e-03   1.87781e-07  -2.09025e-01
+   6  p5          -3.64372e-04   8.56992e-07   8.68730e-11  -6.84075e+02
+   7  p6           4.84642e-08   2.15602e-10   1.60198e-14  -2.32707e+06
+Info in <TCanvas::Print>: gif file ADC50.gif has been created
+
+
+The integral of the Gaussian for ADC 50 Fit is = 5646.12241138477
+
+
+Info in <TCanvas::Print>: gif file Integral_vs_ADC.gif has been created
+Info in <TCanvas::Print>: gif file Mean_and_Sigma_vs_ADC.gif has been created
